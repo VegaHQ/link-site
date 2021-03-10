@@ -44,8 +44,9 @@ class Landing extends React.Component {
                         <span>a lot of things</span>
                       </h1>
                       <p className="lead text-white">
-                        Tuki bi rabl mi dt en mal krasji opis VegaHQ
-                        k bo u anglescini da ljudje na hitr vidjo kwa mi sploh smo.
+                        VegaHQ is a group of enthusiastic students/developers,
+                        just having fun and trying to make something out of themselves.
+                        Listen to our podcast, which can be found by clicking on the Twitch item.
                       </p>
                     </Col>
                   </Row>
