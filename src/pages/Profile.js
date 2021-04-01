@@ -129,7 +129,7 @@ class Landing extends React.Component {
                           <Button
                             className="mt-4"
                             color="warning"
-                            href="https://rnd.vegahq.com/"
+                            href="https://orb.si/"
                             target="_blank"
                           >
                             Check it out
